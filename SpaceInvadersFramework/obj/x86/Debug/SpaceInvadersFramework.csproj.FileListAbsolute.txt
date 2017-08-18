@@ -1,0 +1,8 @@
+C:\Users\jor\OneDrive\gpa\SpaceInvadersFramework\SpaceInvadersFramework\SpaceInvadersFramework\obj\x86\Debug\SpaceInvadersFramework.csprojResolveAssemblyReference.cache
+C:\Users\jor\OneDrive\gpa\SpaceInvadersFramework\SpaceInvadersFramework\SpaceInvadersFramework\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\jor\OneDrive\gpa\SpaceInvadersFramework\SpaceInvadersFramework\SpaceInvadersFramework\bin\x86\Debug\SpaceInvadersFramework.exe
+C:\Users\jor\OneDrive\gpa\SpaceInvadersFramework\SpaceInvadersFramework\SpaceInvadersFramework\bin\x86\Debug\SpaceInvadersFramework.pdb
+C:\Users\jor\OneDrive\gpa\SpaceInvadersFramework\SpaceInvadersFramework\SpaceInvadersFramework\bin\x86\Debug\GameManagement.dll
+C:\Users\jor\OneDrive\gpa\SpaceInvadersFramework\SpaceInvadersFramework\SpaceInvadersFramework\bin\x86\Debug\GameManagement.pdb
+C:\Users\jor\OneDrive\gpa\SpaceInvadersFramework\SpaceInvadersFramework\SpaceInvadersFramework\obj\x86\Debug\SpaceInvadersFramework.exe
+C:\Users\jor\OneDrive\gpa\SpaceInvadersFramework\SpaceInvadersFramework\SpaceInvadersFramework\obj\x86\Debug\SpaceInvadersFramework.pdb
